@@ -1,6 +1,6 @@
 <h3 align="left">Hi, I'm Rofiq Hidayat 👋</h3>
 <h4 align="left">Just random people</h4>
-https://developers.google.com/profile/badges/events/io/2025/registered
+
 - 🌱 I’m interesting in **Web Programming**
 
 - 💬 Ask me about **Anime and Game**
